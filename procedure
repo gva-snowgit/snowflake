@@ -1,0 +1,8 @@
+create or replace procedure ()
+returns varchar
+language sql
+$$
+declare
+begin
+end
+$$
