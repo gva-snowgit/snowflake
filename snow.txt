@@ -1,6 +1,6 @@
 create or replace storage integration str1
 type=external_stage
 storage_provider=s3
-storage_aws_arn_code=''
+storage_aws_role_arn=''
 enbled=true
 storage_allowed_locations=('');
